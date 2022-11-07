@@ -3,4 +3,4 @@ A way to solve not-quadratic-polynomial-with-one-variable quadratic equation wit
 
 (This readme is Chinese)
 
-**研究性课题。
+//TO DO SOMETHING
